@@ -1,2 +1,2 @@
-trabalho para criação de sites
-dupla: Davi, Heitor
+trabalho para criação de sites.
+dupla: Davi, Heitor.
